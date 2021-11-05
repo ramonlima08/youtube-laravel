@@ -84,7 +84,7 @@
                     Laravel - Bem Vindo
                 </div>
                 <div class="mt-">
-                    Branch Master
+                    Branch Develop
                 </div>
 
                 <div class="links">
