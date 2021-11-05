@@ -81,7 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - Bem Vindo - On Line
+                    Laravel - Bem Vindo
+                </div>
+                <div class="mt-">
+                    Branch Master
                 </div>
 
                 <div class="links">
