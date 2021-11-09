@@ -80,11 +80,13 @@
             @endif
 
             <div class="content">
+
                 <div class="title m-b-md">
                     Laravel - Bem Vindo
                 </div>
-                <div class="mt-">
-                    Branch Develop
+
+                <div class="m-5">
+                    Branch Develop 0.1
                 </div>
 
                 <div class="links">
@@ -95,7 +97,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    {{-- <a href="https://github.com/laravel/laravel">GitHub</a> --}}
                 </div>
             </div>
         </div>
