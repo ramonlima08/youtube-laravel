@@ -100,6 +100,10 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                     <a href="https://github.com/ramonlima08">Ramon</a>
                 </div>
+
+                <div class="links" style="margin-top: 10px;">
+                    <a href="https://laravel.com/docs">Loves</a>
+                </div>
             </div>
         </div>
     </body>
